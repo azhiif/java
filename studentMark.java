@@ -1,9 +1,9 @@
-package mashup;
+
 import java.util.Scanner;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Attendance {
+public class studentMark {
 
     
     public static int avg(int total, int num) {
